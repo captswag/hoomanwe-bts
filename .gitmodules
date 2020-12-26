@@ -1,0 +1,3 @@
+[submodule "themes/bare"]
+	path = themes/bare
+	url = git@github.com:captswag/bare-hugo-theme.git

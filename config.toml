@@ -1,0 +1,12 @@
+baseURL = "http://www.hoomanwe.com"
+languageCode = "en-us"
+title = "Hooman with emoticons"
+theme = "bare"
+
+[params]
+mainSections = ["posts"]
+author = "Anjith Sasindran"
+description = 'Android developer based in Bangalore. Previously @grab and @bookmyshow'
+postcss = false
+includeAuthorInTitle = true
+disableAttribution = true
